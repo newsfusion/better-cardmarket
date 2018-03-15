@@ -1,0 +1,35 @@
+@import "modules/variables";
+
+body {
+  font-family: $font-family-base !important;
+  font-size: 12px !important;
+}
+
+.clickable,
+#siteContents a {
+  color: #0066c0 !important;
+}
+
+.taskBlock, .eventBlock, .width-productName {
+  font-size: 12px;
+}
+
+.cardimg {
+  background-size: 74px;
+  background-position: -2px -9px;
+  height: 48px;
+  width: 68px; 
+  margin:4px 0px 4px 0px;
+  border-radius: 8px;
+}
+
+.cardprice {
+  font-size: 13px;
+}
+
+table.SearchTable td:last-child > div {
+  font-size: 14px;
+}
+
+
+
