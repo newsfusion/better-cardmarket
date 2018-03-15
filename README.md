@@ -26,6 +26,11 @@
   </dd>
 </dl>
 
+# Demo-Screenshots:
+[https://i.imgur.com/Az6gET1.png]
+[https://i.imgur.com/44wziFk.png]
+[https://i.imgur.com/5gAbeiN.png]
+
 ## Supported Browsers
 - Chrome
 - Firefox
