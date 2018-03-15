@@ -27,9 +27,12 @@
 </dl>
 
 ## Demo-Screenshots:
-[Screenshot1](https://i.imgur.com/Az6gET1.png)
-[Screenshot2](https://i.imgur.com/44wziFk.png)
-[Screenshot3](https://i.imgur.com/5gAbeiN.png)
+[Screenshot 1](https://i.imgur.com/Az6gET1.png)
+
+[Screenshot 2](https://i.imgur.com/5gAbeiN.png)
+
+[Screenshot 3](https://i.imgur.com/44wziFk.png)
+
 
 ## Supported Browsers
 - Chrome
